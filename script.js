@@ -31,7 +31,7 @@ function changeColor(color) {
 }
 
 getDefaultA.addEventListener('click', function() {
-    changeColor("grey");
+    changeColor("darkgrey");
 });
 
 getOrangeA.addEventListener('click', function() {
